@@ -1,0 +1,11 @@
+streamlit
+ollama
+chromadb
+sentence-transformers
+pymupdf
+python-docx
+pandas
+openpyxl
+pillow
+pytesseract
+faster-whisper
